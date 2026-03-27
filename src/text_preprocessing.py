@@ -20,11 +20,11 @@ def normalize_text(text: str) -> str:
 
 
 def split_sentences(text: str) -> list[str]:
-    """Split raw text into simple sentence-like chunks."""
+    """Split raw text into simple sentence-like chunks, including bullets and separators."""
     if text is None:
         return []
 
-    chunks = re.split(r"[.!?;\n\r]+", str(text))
+    chunks = re.split(r"[.!?;\n\r]|(?:\s[-•]\s)|/|\+", str(text))
     return [normalize_text(chunk) for chunk in chunks if normalize_text(chunk)]
 
 

@@ -1,31 +1,53 @@
 from __future__ import annotations
 
 from src.config import (
-    NEGATIVE_SPLIT_MARKERS,
-    POSITIVE_SPLIT_MARKERS,
+    DIRECT_MARKER_BONUS,
+    MULTI_PHRASE_BONUS,
+    SEPARATOR_ENUM_BONUS,
+    SHORT_TEXT_MULTI_MATCH_BONUS,
     SPLIT_SCORE_THRESHOLD,
-    TEXT_WIDE_NEGATIVE_PENALTY,
-    TEXT_WIDE_POSITIVE_BONUS,
+    STRONG_NEGATIVE_SPLIT_MARKERS,
+    STRONG_POSITIVE_SPLIT_MARKERS,
+    TEXT_WIDE_STRONG_NEGATIVE_PENALTY,
+    TEXT_WIDE_STRONG_POSITIVE_BONUS,
+    TEXT_WIDE_WEAK_NEGATIVE_PENALTY,
+    TEXT_WIDE_WEAK_POSITIVE_BONUS,
     TITLE_PHRASE_BONUS,
+    WEAK_NEGATIVE_SPLIT_MARKERS,
+    WEAK_POSITIVE_SPLIT_MARKERS,
 )
 from src.text_preprocessing import normalize_text, split_sentences
+
+
+def _count_markers(sentence: str, markers: tuple[str, ...]) -> int:
+    return sum(1 for marker in markers if marker in sentence)
 
 
 def _sentence_score(sentence: str, matched_phrases: list[str]) -> float:
     score = 0.0
     normalized_sentence = normalize_text(sentence)
 
+    phrase_hits = 0
     for phrase in matched_phrases:
         if phrase and phrase in normalized_sentence:
-            score += 1.0
+            phrase_hits += 1
 
-    for marker in POSITIVE_SPLIT_MARKERS:
-        if marker in normalized_sentence:
-            score += 1.0
+    score += 0.7 * phrase_hits
+    if phrase_hits >= 2:
+        score += MULTI_PHRASE_BONUS
 
-    for marker in NEGATIVE_SPLIT_MARKERS:
-        if marker in normalized_sentence:
-            score -= 1.0
+    strong_positive_hits = _count_markers(normalized_sentence, STRONG_POSITIVE_SPLIT_MARKERS)
+    weak_positive_hits = _count_markers(normalized_sentence, WEAK_POSITIVE_SPLIT_MARKERS)
+    strong_negative_hits = _count_markers(normalized_sentence, STRONG_NEGATIVE_SPLIT_MARKERS)
+    weak_negative_hits = _count_markers(normalized_sentence, WEAK_NEGATIVE_SPLIT_MARKERS)
+
+    if strong_positive_hits:
+        score += DIRECT_MARKER_BONUS
+        score += 0.3 * (strong_positive_hits - 1)
+
+    score += 0.2 * weak_positive_hits
+    score -= 0.9 * strong_negative_hits
+    score -= 0.2 * weak_negative_hits
 
     return score
 
@@ -38,6 +60,7 @@ def score_microcategory_split(
     normalized_text = normalize_text(description)
     normalized_title = normalize_text(mc_title)
     sentences = split_sentences(description)
+    raw_text = str(description)
 
     sentence_scores = [
         _sentence_score(sentence, matched_phrases)
@@ -50,11 +73,26 @@ def score_microcategory_split(
     if normalized_title and normalized_title in normalized_text:
         score += TITLE_PHRASE_BONUS
 
-    if any(marker in normalized_text for marker in POSITIVE_SPLIT_MARKERS):
-        score += TEXT_WIDE_POSITIVE_BONUS
+    if len(matched_phrases) >= 2:
+        score += MULTI_PHRASE_BONUS
 
-    if any(marker in normalized_text for marker in NEGATIVE_SPLIT_MARKERS):
-        score -= TEXT_WIDE_NEGATIVE_PENALTY
+    if any(marker in normalized_text for marker in STRONG_POSITIVE_SPLIT_MARKERS):
+        score += TEXT_WIDE_STRONG_POSITIVE_BONUS
+
+    if any(marker in normalized_text for marker in WEAK_POSITIVE_SPLIT_MARKERS):
+        score += TEXT_WIDE_WEAK_POSITIVE_BONUS
+
+    if any(marker in normalized_text for marker in STRONG_NEGATIVE_SPLIT_MARKERS):
+        score -= TEXT_WIDE_STRONG_NEGATIVE_PENALTY
+
+    if any(marker in normalized_text for marker in WEAK_NEGATIVE_SPLIT_MARKERS):
+        score -= TEXT_WIDE_WEAK_NEGATIVE_PENALTY
+
+    if any(separator in raw_text for separator in ("+", "/", "•", "-")) and len(matched_phrases) >= 1:
+        score += SEPARATOR_ENUM_BONUS
+
+    if len(normalized_text.split()) <= 12 and len(matched_phrases) >= 1:
+        score += SHORT_TEXT_MULTI_MATCH_BONUS
 
     return score
 
