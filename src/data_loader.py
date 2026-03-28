@@ -65,7 +65,6 @@ def parse_id_list(value: object) -> list[int]:
 
 
 def parse_bool(value: object) -> bool:
-    """Convert bool-like csv values to Python bool."""
     if isinstance(value, bool):
         return value
 
@@ -84,7 +83,6 @@ def _validate_columns(df: pd.DataFrame, required_columns: Iterable[str], path: P
 
 
 def load_dataset(path: str | Path) -> pd.DataFrame:
-    """Load the main dataset and convert target columns to convenient Python types."""
     path = Path(path)
     df = pd.read_csv(path)
 
@@ -105,13 +103,11 @@ def load_dataset(path: str | Path) -> pd.DataFrame:
 
 
 def load_dataset_split(path: str | Path, split_name: str) -> pd.DataFrame:
-    """Load only one split from the dataset, for example train/val/test."""
     df = load_dataset(path)
     return df[df["split"] == split_name].reset_index(drop=True)
 
 
 def load_microcategories(path: str | Path) -> pd.DataFrame:
-    """Load the microcategory dictionary."""
     path = Path(path)
     df = pd.read_csv(path)
 

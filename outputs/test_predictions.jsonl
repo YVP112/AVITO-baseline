@@ -1,0 +1,459 @@
+{"itemId": 2, "detectedMcIds": [101, 104, 108, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: потолок в коридоре."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: цементная штукатурка."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, декоративные конструкции из гкл."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж сантехники."}]}
+{"itemId": 8, "detectedMcIds": [101, 102, 103, 105, 107], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сантехника, вызов сантехника."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: установка выключателей."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: гидроизоляция под плитку."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска дверей."}]}
+{"itemId": 12, "detectedMcIds": [101, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 34, "detectedMcIds": [101, 102, 103, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена полотенцесушителя."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: перенос розеток."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выравнивание стен."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: шумоизоляция перегородок."}]}
+{"itemId": 35, "detectedMcIds": [101, 102, 103, 105], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: металлопластиковые трубы."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена выключателей."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плиточные работы."}]}
+{"itemId": 44, "detectedMcIds": [101, 102, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 51, "detectedMcIds": [101, 105, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 53, "detectedMcIds": [102, 103, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 54, "detectedMcIds": [104, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 56, "detectedMcIds": [101, 105, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 70, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 81, "detectedMcIds": [101, 106, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в новостройке."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж плитки."}]}
+{"itemId": 89, "detectedMcIds": [101, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 105, "detectedMcIds": [101, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка клеевого кварцвинила."}]}
+{"itemId": 113, "detectedMcIds": [109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 116, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 119, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 122, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 128, "detectedMcIds": [101, 102, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж канализации."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж под ремонт."}]}
+{"itemId": 135, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 140, "detectedMcIds": [101, 106, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 141, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 151, "detectedMcIds": [101, 102, 106, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: полипропиленовые трубы."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: стеклохолст под покраску."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: стеклохолст под покраску."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж в санузле."}]}
+{"itemId": 155, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 179, "detectedMcIds": [101, 104, 105, 108], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: резной потолок."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка на кухне."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: обрызг грунт накрывка."}]}
+{"itemId": 183, "detectedMcIds": [106, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 184, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 192, "detectedMcIds": [102, 104, 106, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 193, "detectedMcIds": [101, 102, 103], "shouldSplit": false, "drafts": []}
+{"itemId": 198, "detectedMcIds": [103, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж теплого пола электрического."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж теплого пола."}]}
+{"itemId": 199, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 204, "detectedMcIds": [103, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 227, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 229, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 241, "detectedMcIds": [101, 102, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 242, "detectedMcIds": [105, 106, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 243, "detectedMcIds": [101, 106, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: стеклохолст под покраску."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: стеклохолст под покраску."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл."}]}
+{"itemId": 246, "detectedMcIds": [106, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 248, "detectedMcIds": [101, 105, 107, 108], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: обрызг грунт накрывка."}]}
+{"itemId": 249, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 250, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 253, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 257, "detectedMcIds": [102, 103, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: разводка канализации."}]}
+{"itemId": 262, "detectedMcIds": [103, 107, 109], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: вывод под кондиционер."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: окраска стен."}]}
+{"itemId": 265, "detectedMcIds": [109, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: электрический теплый пол."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, потолочные конструкции гкл."}]}
+{"itemId": 273, "detectedMcIds": [104, 106], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в спальне."}]}
+{"itemId": 274, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 281, "detectedMcIds": [101, 108, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 306, "detectedMcIds": [105, 106, 107, 108], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка плитки, укладка плитки елочкой."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в комнате."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: оштукатуривание помещений."}]}
+{"itemId": 314, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 325, "detectedMcIds": [101, 103, 104, 107, 109], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж щита, подсветка потолка."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: контурная подсветка потолка."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: окраска после шпаклевки."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: наливной пол."}]}
+{"itemId": 337, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 352, "detectedMcIds": [106, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 359, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 365, "detectedMcIds": [102, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: ремонт сантехники."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: стыковка рисунка обоев."}]}
+{"itemId": 367, "detectedMcIds": [101, 109], "shouldSplit": true, "drafts": [{"mcId": 101, "mcTitle": "Ремонт квартир и домов под ключ", "text": "Выполняем ремонт квартир и домов под ключ отдельно: ремонт с черновой и чистовой отделкой."}]}
+{"itemId": 368, "detectedMcIds": [101, 103, 108], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка, штукатурка потолка по сетке."}]}
+{"itemId": 384, "detectedMcIds": [101, 105, 108], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: декоративная раскладка плитки."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка."}]}
+{"itemId": 391, "detectedMcIds": [101, 103, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 396, "detectedMcIds": [102, 103, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 397, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 402, "detectedMcIds": [101, 105, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 406, "detectedMcIds": [101, 110, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 409, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 412, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 413, "detectedMcIds": [101, 106, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: шпаклевка под обои."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска труб."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж раковины."}]}
+{"itemId": 428, "detectedMcIds": [103, 104, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 442, "detectedMcIds": [101, 103, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 446, "detectedMcIds": [101, 106, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 447, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 454, "detectedMcIds": [103, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена узо."}]}
+{"itemId": 465, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 468, "detectedMcIds": [102, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 470, "detectedMcIds": [101, 102, 106, 107], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: подключение посудомоечной машины."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в квартире."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска радиаторов."}]}
+{"itemId": 472, "detectedMcIds": [103, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 474, "detectedMcIds": [101, 103, 109], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж светильников."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка spc."}]}
+{"itemId": 476, "detectedMcIds": [101, 102, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж водоснабжения."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: нанесение краски."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: монтаж гипсокартона."}]}
+{"itemId": 479, "detectedMcIds": [101, 105, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 486, "detectedMcIds": [101, 104, 107], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: слив воды с потолка."}]}
+{"itemId": 489, "detectedMcIds": [104, 107, 108], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: натяжной потолок с подсветкой."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка откосов."}]}
+{"itemId": 490, "detectedMcIds": [101, 107, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 499, "detectedMcIds": [101, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 500, "detectedMcIds": [108, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж в ванной."}]}
+{"itemId": 507, "detectedMcIds": [104, 111], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: перетяжка потолка."}]}
+{"itemId": 509, "detectedMcIds": [106, 107], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: подготовка под покраску."}]}
+{"itemId": 513, "detectedMcIds": [102, 109], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: стяжка пола."}]}
+{"itemId": 514, "detectedMcIds": [103, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: электрика, электрика в новостройке."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: оклейка потолка обоями."}]}
+{"itemId": 519, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 523, "detectedMcIds": [101, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 530, "detectedMcIds": [101, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 532, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 533, "detectedMcIds": [101, 102, 103], "shouldSplit": false, "drafts": []}
+{"itemId": 536, "detectedMcIds": [101, 108, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 541, "detectedMcIds": [101, 102], "shouldSplit": false, "drafts": []}
+{"itemId": 552, "detectedMcIds": [106, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: стеклохолст под покраску."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: стеклохолст под покраску."}]}
+{"itemId": 555, "detectedMcIds": [101, 102, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: опрессовка труб."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подбор рисунка обоев."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: напольные покрытия."}]}
+{"itemId": 569, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 575, "detectedMcIds": [105, 107], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка кафеля."}]}
+{"itemId": 576, "detectedMcIds": [101, 105, 107, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: облицовка фартука."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: нанесение краски."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: установка маяков."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: наливной пол."}]}
+{"itemId": 578, "detectedMcIds": [101, 104, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 582, "detectedMcIds": [101, 103, 104, 106], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: подсветка потолка."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: контурная подсветка потолка."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: флизелиновые обои."}]}
+{"itemId": 595, "detectedMcIds": [101, 103, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 615, "detectedMcIds": [101, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 616, "detectedMcIds": [101, 105, 106, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: облицовка пола керамогранитом."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев после штукатурки."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска гипсокартона."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: перегородка в комнате."}]}
+{"itemId": 632, "detectedMcIds": [101, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 646, "detectedMcIds": [101, 102, 103, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена смесителя."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: установка розеток."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурные работы."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: усиление каркаса."}]}
+{"itemId": 662, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 672, "detectedMcIds": [101, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 676, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 679, "detectedMcIds": [109, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 680, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 685, "detectedMcIds": [105, 109], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: перекладка плитки."}]}
+{"itemId": 706, "detectedMcIds": [110, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж унитаза."}]}
+{"itemId": 716, "detectedMcIds": [101, 105, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 718, "detectedMcIds": [103, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 721, "detectedMcIds": [101, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 736, "detectedMcIds": [106, 107, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 746, "detectedMcIds": [101, 104, 108, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 749, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 752, "detectedMcIds": [101, 106, 107, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: флизелиновые обои."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: нанесение краски, заделка трещин."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: заделка трещин штукатуркой."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: монтаж профилей."}]}
+{"itemId": 759, "detectedMcIds": [101, 102, 103, 105, 108], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка ванны."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: разводка электрики."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка плитки."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: установка маяков."}]}
+{"itemId": 768, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 786, "detectedMcIds": [101, 107, 109], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: побелка потолка."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: настил пола."}]}
+{"itemId": 790, "detectedMcIds": [101, 103, 105, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 796, "detectedMcIds": [101, 103, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 797, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 800, "detectedMcIds": [106, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 807, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 808, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 811, "detectedMcIds": [106, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 814, "detectedMcIds": [101, 105, 107, 109, 110], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: ремонт плиточного покрытия."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: подготовка стен после обоев."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: замена порожков."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гвл."}]}
+{"itemId": 815, "detectedMcIds": [101, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 826, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 837, "detectedMcIds": [101, 103, 107, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: сборка электрощита."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: выведение углов под покраску."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выведение углов."}]}
+{"itemId": 844, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 848, "detectedMcIds": [103, 107, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 854, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 869, "detectedMcIds": [101, 104, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 870, "detectedMcIds": [103, 108, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 892, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 898, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 906, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 918, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 921, "detectedMcIds": [101, 102, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 923, "detectedMcIds": [101, 102, 108, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена стояка."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: механизированная штукатурка."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, облицовка стен гкл."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж в ванной."}]}
+{"itemId": 933, "detectedMcIds": [101, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: обойные работы."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж порожка."}]}
+{"itemId": 938, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 948, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 949, "detectedMcIds": [104, 105, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 954, "detectedMcIds": [101, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 972, "detectedMcIds": [101, 102], "shouldSplit": false, "drafts": []}
+{"itemId": 997, "detectedMcIds": [102, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 999, "detectedMcIds": [101, 102, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1003, "detectedMcIds": [105, 110], "shouldSplit": true, "drafts": [{"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: монтаж люка в короб."}]}
+{"itemId": 1012, "detectedMcIds": [102, 104, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 1013, "detectedMcIds": [101, 102, 104, 109, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка мойки."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: ниша под шторы."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: ниша под шторы из гипсокартона."}]}
+{"itemId": 1016, "detectedMcIds": [101, 105, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1019, "detectedMcIds": [101, 102, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1023, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 1024, "detectedMcIds": [101, 104, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 1025, "detectedMcIds": [102, 104, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена труб."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: короб из гипсокартона."}]}
+{"itemId": 1027, "detectedMcIds": [101, 103, 104, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж слаботочки."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: теневой потолок."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: машинная штукатурка квартиры."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл."}]}
+{"itemId": 1045, "detectedMcIds": [101, 103, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1049, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1051, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 1053, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1055, "detectedMcIds": [109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1061, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 1062, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 1075, "detectedMcIds": [101, 104, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1080, "detectedMcIds": [101, 104, 108], "shouldSplit": true, "drafts": [{"mcId": 101, "mcTitle": "Ремонт квартир и домов под ключ", "text": "Выполняем ремонт квартир и домов под ключ отдельно: ремонт помещения целиком."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: оштукатуривание помещений."}]}
+{"itemId": 1084, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 1085, "detectedMcIds": [101, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в спальне."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка инженерной доски."}]}
+{"itemId": 1089, "detectedMcIds": [101, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 1091, "detectedMcIds": [101, 103], "shouldSplit": false, "drafts": []}
+{"itemId": 1102, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 1103, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 1104, "detectedMcIds": [101, 104, 106, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: потолок в ванной."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: демонтаж старых обоев."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка пвх плитки."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж."}]}
+{"itemId": 1105, "detectedMcIds": [102, 104, 105, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 1118, "detectedMcIds": [104, 105, 106], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: еврокраб потолок."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: затирка швов."}]}
+{"itemId": 1121, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 1122, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 1123, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 1137, "detectedMcIds": [103, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1146, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 1149, "detectedMcIds": [107, 108, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1150, "detectedMcIds": [101, 104, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 1158, "detectedMcIds": [101, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: сухая стяжка."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж откосов."}]}
+{"itemId": 1159, "detectedMcIds": [101, 102, 104, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка душевого уголка."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: многоуровневые потолки."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: сухая стяжка."}]}
+{"itemId": 1172, "detectedMcIds": [101, 102, 104, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сантехника, услуги сантехника."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: демонтаж натяжного потолка."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: короб из гипсокартона."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 1181, "detectedMcIds": [101, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 1184, "detectedMcIds": [101, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: ремонт штукатурки."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка кварцвинила."}]}
+{"itemId": 1186, "detectedMcIds": [106, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1196, "detectedMcIds": [102, 104, 107], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: устранение протечки."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: теневой потолок."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска радиаторов."}]}
+{"itemId": 1197, "detectedMcIds": [106, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: выравнивание пола."}]}
+{"itemId": 1198, "detectedMcIds": [102, 103, 104, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1210, "detectedMcIds": [101, 103, 106, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 1221, "detectedMcIds": [105, 106, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка клинкера."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж теплого пола."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: снятие напольного покрытия."}]}
+{"itemId": 1224, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 1229, "detectedMcIds": [106, 107, 108], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: заделка трещин."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: заделка трещин штукатуркой."}]}
+{"itemId": 1231, "detectedMcIds": [101, 105, 107], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: облицовка пола керамогранитом."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска после ремонта."}]}
+{"itemId": 1237, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 1239, "detectedMcIds": [101, 106, 109], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: метровые обои."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка ковролина."}]}
+{"itemId": 1241, "detectedMcIds": [101, 108, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1249, "detectedMcIds": [103, 105, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1272, "detectedMcIds": [101, 106, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1278, "detectedMcIds": [101, 107, 108, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1302, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 1306, "detectedMcIds": [101, 104, 106, 107], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: ремонт натяжного потолка."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка фотообоев."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: колеровка краски."}]}
+{"itemId": 1312, "detectedMcIds": [104, 107], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: моющаяся краска."}]}
+{"itemId": 1323, "detectedMcIds": [101, 102, 106], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка сантехники."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка стеклообоев."}]}
+{"itemId": 1325, "detectedMcIds": [101, 105], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка плитки, укладка плитки елочкой."}]}
+{"itemId": 1334, "detectedMcIds": [101, 104, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1335, "detectedMcIds": [101, 106, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 1343, "detectedMcIds": [101, 104, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1349, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 1351, "detectedMcIds": [104, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 1356, "detectedMcIds": [104, 110, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1357, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 1361, "detectedMcIds": [101, 105, 106, 111], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка в ванной."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: оклейка потолка обоями."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: сбивка плитки."}]}
+{"itemId": 1368, "detectedMcIds": [101, 105, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 1371, "detectedMcIds": [101, 103, 106, 109, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: электрика."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: флизелиновые обои."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж порожка."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: ниши из гипсокартона."}]}
+{"itemId": 1373, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 1376, "detectedMcIds": [101, 106, 107], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: ремонт обоев."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска кистью."}]}
+{"itemId": 1383, "detectedMcIds": [107, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1389, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 1410, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 1416, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 1420, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 1425, "detectedMcIds": [103, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: заземление."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: шпаклевка стен."}]}
+{"itemId": 1426, "detectedMcIds": [101, 103, 105, 109], "shouldSplit": true, "drafts": [{"mcId": 101, "mcTitle": "Ремонт квартир и домов под ключ", "text": "Выполняем ремонт квартир и домов под ключ отдельно: полный ремонт квартиры."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж щита."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж теплого пола."}]}
+{"itemId": 1428, "detectedMcIds": [101, 106, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подрезка обоев у плинтуса."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: зашивка инсталляции гипсокартоном."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж гипсокартона."}]}
+{"itemId": 1430, "detectedMcIds": [103, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: вывод под кондиционер."}]}
+{"itemId": 1441, "detectedMcIds": [106, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: панно из обоев."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж стен."}]}
+{"itemId": 1445, "detectedMcIds": [101, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска в квартире."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, полный демонтаж квартиры."}]}
+{"itemId": 1449, "detectedMcIds": [101, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж перегородок."}]}
+{"itemId": 1453, "detectedMcIds": [106, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1456, "detectedMcIds": [101, 102, 105, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж сантехники."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: установка люков под плитку."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: черновая отделка стен."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: монтаж osb на пол."}]}
+{"itemId": 1465, "detectedMcIds": [105, 108], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: подрезка наплывов."}]}
+{"itemId": 1467, "detectedMcIds": [102, 105, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1469, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 1473, "detectedMcIds": [101, 102, 106, 108], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сборка сантехнического шкафа."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подготовка стен под обои."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: подготовка стен под обои."}]}
+{"itemId": 1500, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1513, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 1518, "detectedMcIds": [104, 107, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: демонтаж натяжного потолка."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: малярка под ключ."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 1520, "detectedMcIds": [102, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка фильтров воды."}]}
+{"itemId": 1522, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 1545, "detectedMcIds": [101, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 1551, "detectedMcIds": [103, 106], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: обойные работы."}]}
+{"itemId": 1554, "detectedMcIds": [101, 104, 105], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: установка вентиляционных решеток в потолок."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка по диагонали."}]}
+{"itemId": 1560, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 1574, "detectedMcIds": [101, 105, 106, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка плитки, укладка плитки 120х60."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в комнате."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выравнивание потолка."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: снос ненесущих стен."}]}
+{"itemId": 1585, "detectedMcIds": [101, 103, 106, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: сборка электрощита."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: выравнивание стен под обои."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выравнивание стен."}]}
+{"itemId": 1592, "detectedMcIds": [101, 102, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 1600, "detectedMcIds": [103, 107], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: установка выключателей."}]}
+{"itemId": 1611, "detectedMcIds": [105], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: резка плитки."}]}
+{"itemId": 1617, "detectedMcIds": [109], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка пола в комнате."}]}
+{"itemId": 1624, "detectedMcIds": [103, 104, 107], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: подключение электроплиты."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: обход труб на потолке."}]}
+{"itemId": 1635, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 1639, "detectedMcIds": [102, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 1640, "detectedMcIds": [101, 104, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 1656, "detectedMcIds": [101, 102, 104, 105, 106], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сантехнические работы."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: световой потолок."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: подрезка керамогранита."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: шпаклевка под обои."}]}
+{"itemId": 1663, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 1665, "detectedMcIds": [101, 107, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1666, "detectedMcIds": [101, 106, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: снятие обоев."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: подготовка пола."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: снятие обоев."}]}
+{"itemId": 1668, "detectedMcIds": [106, 110, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж линолеума."}]}
+{"itemId": 1672, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 1673, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1682, "detectedMcIds": [101, 103], "shouldSplit": false, "drafts": []}
+{"itemId": 1686, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 1687, "detectedMcIds": [101, 106, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: выравнивание стен под обои."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выравнивание стен."}]}
+{"itemId": 1699, "detectedMcIds": [101, 105, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж дверных коробок."}]}
+{"itemId": 1701, "detectedMcIds": [101, 103, 106], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: подключение светильников."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: широкие обои."}]}
+{"itemId": 1716, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 1719, "detectedMcIds": [101, 102, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: пайка труб."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска металлоконструкций."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж дверей."}]}
+{"itemId": 1728, "detectedMcIds": [110, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1736, "detectedMcIds": [104, 105], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: потолок в ванной."}]}
+{"itemId": 1755, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 1757, "detectedMcIds": [103, 104, 105], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка на кухне."}]}
+{"itemId": 1773, "detectedMcIds": [105, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж в ванной."}]}
+{"itemId": 1774, "detectedMcIds": [101, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гипсокартон, каркас под гипсокартон."}]}
+{"itemId": 1782, "detectedMcIds": [106], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: малярный флизелин."}]}
+{"itemId": 1786, "detectedMcIds": [106, 109, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 1801, "detectedMcIds": [101, 102, 103, 105, 108], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж сантехники."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж трековых светильников."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: гидроизоляция под плитку."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка, штукатурка потолка по сетке."}]}
+{"itemId": 1816, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 1828, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 1831, "detectedMcIds": [101, 105, 111], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: резка плитки."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: снос перегородок."}]}
+{"itemId": 1839, "detectedMcIds": [101, 105, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1845, "detectedMcIds": [101, 107, 108, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 1849, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 1853, "detectedMcIds": [101, 102, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 1855, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1865, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1866, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 1882, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 1890, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 1907, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 1912, "detectedMcIds": [103, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: шпаклевка стен."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж."}]}
+{"itemId": 1913, "detectedMcIds": [105, 106, 108, 109], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: ремонт плиточного покрытия."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подбор рисунка обоев."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: геометрия стен."}]}
+{"itemId": 1917, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 1955, "detectedMcIds": [101, 104, 108, 109, 110], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: устранение пореза потолка."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: подрезка наплывов."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка покрытия под ключ."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, обшивка потолка гкл."}]}
+{"itemId": 1956, "detectedMcIds": [102, 105, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: формирование коробов под плитку."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: геометрия стен."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: работы с гипсокартоном."}]}
+{"itemId": 1976, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 1979, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 1997, "detectedMcIds": [104, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 2003, "detectedMcIds": [101, 102, 108], "shouldSplit": true, "drafts": [{"mcId": 101, "mcTitle": "Ремонт квартир и домов под ключ", "text": "Выполняем ремонт квартир и домов под ключ отдельно: ремонт с дизайн проектом."}, {"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: разводка канализации."}]}
+{"itemId": 2013, "detectedMcIds": [104, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 2018, "detectedMcIds": [105, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2021, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 2023, "detectedMcIds": [103, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 2028, "detectedMcIds": [101, 105, 107, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка керамической плитки."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: шпаклевка стен."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка под обои."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, облицовка стен гкл."}]}
+{"itemId": 2034, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 2041, "detectedMcIds": [101, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2045, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 2054, "detectedMcIds": [101, 103, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2074, "detectedMcIds": [101, 103, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: установка люстры."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка бетонных стен."}]}
+{"itemId": 2075, "detectedMcIds": [105, 107], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска в два слоя."}]}
+{"itemId": 2076, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2079, "detectedMcIds": [101, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2084, "detectedMcIds": [104, 110, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2092, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 2101, "detectedMcIds": [104, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2107, "detectedMcIds": [102, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сборка сантехнического шкафа."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: настил пола."}]}
+{"itemId": 2108, "detectedMcIds": [101, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2110, "detectedMcIds": [103, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 2114, "detectedMcIds": [101, 103, 104, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена узо."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: устранение пореза потолка."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: окраска потолков."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж окон."}]}
+{"itemId": 2120, "detectedMcIds": [104, 105], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: врезка светильников."}]}
+{"itemId": 2123, "detectedMcIds": [101, 105, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 2125, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2129, "detectedMcIds": [102, 105], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: сверление плитки."}]}
+{"itemId": 2136, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 2140, "detectedMcIds": [103, 107], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена автомата."}]}
+{"itemId": 2166, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2174, "detectedMcIds": [109, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2186, "detectedMcIds": [101, 103, 105], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: сборка электрощита."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка на лестнице."}]}
+{"itemId": 2187, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2192, "detectedMcIds": [101, 103], "shouldSplit": false, "drafts": []}
+{"itemId": 2198, "detectedMcIds": [109, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2201, "detectedMcIds": [107, 109, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2206, "detectedMcIds": [108, 110], "shouldSplit": true, "drafts": [{"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: шпаклевка швов гипсокартона."}]}
+{"itemId": 2208, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 2210, "detectedMcIds": [101, 105, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 2214, "detectedMcIds": [104, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 2219, "detectedMcIds": [102, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2233, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 2234, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2237, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 2244, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 2245, "detectedMcIds": [101, 104, 106, 107, 109], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: потолок в ванной."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: малярный флизелин."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: шпаклевка стен."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка виниловой плитки."}]}
+{"itemId": 2252, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 2255, "detectedMcIds": [104, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 2263, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 2275, "detectedMcIds": [107, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 2287, "detectedMcIds": [103, 106], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: обои в детской."}]}
+{"itemId": 2305, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 2312, "detectedMcIds": [101, 102, 104, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2315, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 2321, "detectedMcIds": [104, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 2326, "detectedMcIds": [107, 108], "shouldSplit": true, "drafts": [{"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка кухни."}]}
+{"itemId": 2345, "detectedMcIds": [102, 104, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: установка смесителя."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: монтаж криволинейных конструкций."}]}
+{"itemId": 2352, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2354, "detectedMcIds": [101, 104, 106, 107], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: устранение пореза потолка."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: декоративные обои."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска труб."}]}
+{"itemId": 2357, "detectedMcIds": [101, 106, 107], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: грунтовка стен, покраска помещений."}]}
+{"itemId": 2382, "detectedMcIds": [101, 108, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 2383, "detectedMcIds": [105, 110, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2395, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2409, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 2416, "detectedMcIds": [101, 103, 105], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: электрика, услуги электрика."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: декоративная раскладка плитки."}]}
+{"itemId": 2426, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 2428, "detectedMcIds": [101, 102, 105, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: сантехника, вызов сантехника."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плиточные работы, плиточные работы под ключ."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка потолка, штукатурка потолка по сетке."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж стен."}]}
+{"itemId": 2430, "detectedMcIds": [101], "shouldSplit": false, "drafts": []}
+{"itemId": 2433, "detectedMcIds": [101, 103, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2435, "detectedMcIds": [107, 109], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска офисов."}]}
+{"itemId": 2452, "detectedMcIds": [101, 102, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2461, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 2462, "detectedMcIds": [101, 103, 104, 105, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: перенос розеток."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: глянцевые потолки."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: запил плитки под 45."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: звукоизоляционная перегородка."}]}
+{"itemId": 2472, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2473, "detectedMcIds": [101, 102, 107], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена стояка."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: антивандальная краска."}]}
+{"itemId": 2476, "detectedMcIds": [101, 107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2482, "detectedMcIds": [101, 102, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2483, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 2486, "detectedMcIds": [101, 102, 109], "shouldSplit": false, "drafts": []}
+{"itemId": 2488, "detectedMcIds": [109, 111], "shouldSplit": true, "drafts": [{"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: плавающий способ укладки."}]}
+{"itemId": 2498, "detectedMcIds": [102], "shouldSplit": false, "drafts": []}
+{"itemId": 2499, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2504, "detectedMcIds": [106, 107], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: грунтовка потолка."}]}
+{"itemId": 2507, "detectedMcIds": [101, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 2510, "detectedMcIds": [101, 102, 105], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: ремонт унитаза."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: плитка в туалете."}]}
+{"itemId": 2512, "detectedMcIds": [101, 106, 108, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подготовка стен под обои."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: подготовка стен под обои, выведение углов."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж в санузле."}]}
+{"itemId": 2516, "detectedMcIds": [101, 104, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2528, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2530, "detectedMcIds": [101, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2554, "detectedMcIds": [101, 102, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж канализации."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: подготовка стен после обоев."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гипсокартон."}]}
+{"itemId": 2556, "detectedMcIds": [101, 102, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 2570, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 2572, "detectedMcIds": [101, 103, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2577, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2582, "detectedMcIds": [105, 106, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: облицовка фартука."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: ремонт штукатурки."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл."}]}
+{"itemId": 2622, "detectedMcIds": [101, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2624, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 2626, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 2637, "detectedMcIds": [103, 106, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: установка автоматов."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: переклейка обоев."}]}
+{"itemId": 2639, "detectedMcIds": [106, 107], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в квартире."}]}
+{"itemId": 2647, "detectedMcIds": [101, 102, 104, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена сифона."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: парящий потолок."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: окраска стен."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж потолка."}]}
+{"itemId": 2658, "detectedMcIds": [111], "shouldSplit": false, "drafts": []}
+{"itemId": 2662, "detectedMcIds": [105, 106, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2675, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2695, "detectedMcIds": [102, 105], "shouldSplit": false, "drafts": []}
+{"itemId": 2702, "detectedMcIds": [104, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2718, "detectedMcIds": [101, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: заделка трещин."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: гкл, металлокаркас под гкл."}]}
+{"itemId": 2721, "detectedMcIds": [101, 104, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, частичный демонтаж."}]}
+{"itemId": 2734, "detectedMcIds": [101, 111], "shouldSplit": true, "drafts": [{"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж под ремонт."}]}
+{"itemId": 2735, "detectedMcIds": [101, 103, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 2737, "detectedMcIds": [101, 106, 108, 111], "shouldSplit": false, "drafts": []}
+{"itemId": 2739, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2755, "detectedMcIds": [101, 102], "shouldSplit": false, "drafts": []}
+{"itemId": 2758, "detectedMcIds": [101, 105, 109, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2766, "detectedMcIds": [108], "shouldSplit": false, "drafts": []}
+{"itemId": 2783, "detectedMcIds": [101, 106, 108], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: обои в детской."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: снятие старой штукатурки."}]}
+{"itemId": 2785, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 2787, "detectedMcIds": [101, 103, 105, 106, 108], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: электрика, услуги электрика."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: укладка плитки, укладка плитки на балконе."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: поклейка обоев, поклейка обоев в спальне."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: штукатурка откосов."}]}
+{"itemId": 2789, "detectedMcIds": [105, 106, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2790, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2792, "detectedMcIds": [103, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена выключателей."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж линолеума."}]}
+{"itemId": 2799, "detectedMcIds": [106, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: обои в коридоре."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: снятие ламината."}]}
+{"itemId": 2802, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2803, "detectedMcIds": [104, 107, 110], "shouldSplit": false, "drafts": []}
+{"itemId": 2804, "detectedMcIds": [102, 107, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: выведение углов под покраску."}, {"mcId": 108, "mcTitle": "Штукатурные работы", "text": "Выполняем штукатурные работы отдельно: выведение углов."}, {"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: шпаклевка швов гипсокартона."}]}
+{"itemId": 2806, "detectedMcIds": [101, 102, 103, 104, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: замена стояка."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: подсветка потолка."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: контурная подсветка потолка."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка spc."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж под ремонт."}]}
+{"itemId": 2821, "detectedMcIds": [106], "shouldSplit": false, "drafts": []}
+{"itemId": 2836, "detectedMcIds": [102, 107, 109], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: ремонт сантехники."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: укладка клеевого кварцвинила."}]}
+{"itemId": 2837, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2843, "detectedMcIds": [109], "shouldSplit": false, "drafts": []}
+{"itemId": 2844, "detectedMcIds": [106, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2854, "detectedMcIds": [101, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2861, "detectedMcIds": [101, 102], "shouldSplit": false, "drafts": []}
+{"itemId": 2863, "detectedMcIds": [103, 108, 110], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: электрика, электрика в новостройке."}]}
+{"itemId": 2871, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 2872, "detectedMcIds": [103, 104], "shouldSplit": true, "drafts": [{"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: натяжные потолки."}]}
+{"itemId": 2873, "detectedMcIds": [103, 105], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж бра."}]}
+{"itemId": 2882, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2886, "detectedMcIds": [101, 104, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 2896, "detectedMcIds": [104], "shouldSplit": false, "drafts": []}
+{"itemId": 2907, "detectedMcIds": [101, 106, 107, 110], "shouldSplit": true, "drafts": [{"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска потолка."}]}
+{"itemId": 2914, "detectedMcIds": [106, 107], "shouldSplit": false, "drafts": []}
+{"itemId": 2926, "detectedMcIds": [110], "shouldSplit": false, "drafts": []}
+{"itemId": 2928, "detectedMcIds": [101, 102, 104, 106, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: монтаж канализации."}, {"mcId": 104, "mcTitle": "Натяжные потолки", "text": "Выполняем натяжные потолки отдельно: демонтаж натяжного потолка."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: оклейка ниш и откосов."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска офисов."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж натяжного потолка."}]}
+{"itemId": 2939, "detectedMcIds": [105], "shouldSplit": false, "drafts": []}
+{"itemId": 2950, "detectedMcIds": [101, 104], "shouldSplit": false, "drafts": []}
+{"itemId": 2955, "detectedMcIds": [103], "shouldSplit": false, "drafts": []}
+{"itemId": 2958, "detectedMcIds": [101, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2964, "detectedMcIds": [101, 103, 105, 107, 111], "shouldSplit": true, "drafts": [{"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: замена автомата."}, {"mcId": 105, "mcTitle": "Укладка плитки", "text": "Выполняем укладка плитки отдельно: резка плитки."}, {"mcId": 107, "mcTitle": "Малярные работы", "text": "Выполняем малярные работы отдельно: покраска металлоконструкций."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж, демонтаж потолка."}]}
+{"itemId": 2965, "detectedMcIds": [102, 106, 108], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: прокладка труб."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: малярный флизелин."}]}
+{"itemId": 2969, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 2980, "detectedMcIds": [105, 110], "shouldSplit": true, "drafts": [{"mcId": 110, "mcTitle": "Гипсокартон", "text": "Выполняем гипсокартон отдельно: шпаклевка швов гипсокартона."}]}
+{"itemId": 2986, "detectedMcIds": [104, 106], "shouldSplit": false, "drafts": []}
+{"itemId": 2990, "detectedMcIds": [107, 108], "shouldSplit": false, "drafts": []}
+{"itemId": 2996, "detectedMcIds": [107], "shouldSplit": false, "drafts": []}
+{"itemId": 3000, "detectedMcIds": [101, 102, 103, 106, 109, 111], "shouldSplit": true, "drafts": [{"mcId": 102, "mcTitle": "Сантехника", "text": "Выполняем сантехника отдельно: разводка труб."}, {"mcId": 103, "mcTitle": "Электрика", "text": "Выполняем электрика отдельно: монтаж теплого пола электрического."}, {"mcId": 106, "mcTitle": "Поклейка обоев", "text": "Выполняем поклейка обоев отдельно: подклейка обоев."}, {"mcId": 109, "mcTitle": "Напольные покрытия", "text": "Выполняем напольные покрытия отдельно: демонтаж старого пола, монтаж теплого пола."}, {"mcId": 111, "mcTitle": "Демонтажные работы", "text": "Выполняем демонтажные работы отдельно: демонтаж."}]}

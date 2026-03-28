@@ -38,7 +38,6 @@ class BaselinePredictor:
             "itemId": item_id,
             "detectedMcIds": detected_mc_ids,
             "shouldSplit": bool(split_mc_ids),
-            "splitMcIds": split_mc_ids,
             "drafts": drafts,
             "splitScores": split_scores,
         }
@@ -56,7 +55,6 @@ class BaselinePredictor:
                     "itemId": prediction["itemId"],
                     "predDetectedMcIds": prediction["detectedMcIds"],
                     "predShouldSplit": prediction["shouldSplit"],
-                    "predSplitMcIds": prediction["splitMcIds"],
                     "predDrafts": prediction["drafts"],
                 }
             )
