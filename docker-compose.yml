@@ -1,0 +1,29 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: avito-baseline:local
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    environment:
+      MODEL_VERSION: tfidf-logreg-services-splitter-v1
+      RULES_VERSION: submission-postprocess-v1
+    volumes:
+      - ./outputs:/app/outputs
+    restart: unless-stopped
+
+  eval:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: avito-baseline:local
+    command: python run_baseline.py
+    environment:
+      MODEL_VERSION: tfidf-logreg-services-splitter-v1
+      RULES_VERSION: submission-postprocess-v1
+    volumes:
+      - ./outputs:/app/outputs
+    profiles:
+      - eval
